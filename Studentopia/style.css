@@ -53,3 +53,9 @@ section{
     margin-top: 100px; 
     border-radius: 10px; 
 }
+.landing-heading {
+    font-size: 72px; 
+    color: white; 
+    font-weight: bold;
+    line-height: 1.2; 
+}
