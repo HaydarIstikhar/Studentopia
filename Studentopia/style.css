@@ -58,4 +58,5 @@ section{
     color: white; 
     font-weight: bold;
     line-height: 1.2; 
+    text-shadow: 0.5px 0.5px 5px rgba(0, 0, 0, 0.7);
 }
