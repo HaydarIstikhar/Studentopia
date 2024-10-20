@@ -85,8 +85,8 @@ a {
     padding: 3px;
     background-repeat: no-repeat;
     transition: background-size 400ms;
-    display: inline-block; /* Ensures it takes up only as much space as needed */
-    margin-top: 20px; /* Adjust spacing as needed */
+    display: inline-block; 
+    margin-top: 20px; 
 }
 
 .hover-link:hover {
